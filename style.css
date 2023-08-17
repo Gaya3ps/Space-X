@@ -1,0 +1,119 @@
+body{
+    font-family: 'D-DIN-Medium', Arial, Verdana, sans-serif;
+}
+#a1{
+    font-size: small;
+    padding-left: -100px;
+}
+
+#pic1{
+    background-image: url(Imgs/pic\ 01.jpg);
+    background-size: cover;
+    height: 739px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#nav1{
+    background-color: transparent;
+}
+.sec1{
+    position: absolute;
+    bottom: 25%;
+    left: 100px;
+}
+.sec1 h5{
+    color: white;
+
+}
+.sec1 h1{
+    color: white;
+}
+#btn{
+    border: 2px solid white;
+    border-radius: 5px;
+} 
+#pic2{
+    background-image: url(Imgs/pic\ 02.jpg) ;
+    background-size: cover;
+    height: 740px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.sec2 h5{
+    padding-top: 30%;
+    padding-left: 100px;
+    
+    color: white;
+
+}
+.sec2 h1{
+    color: white;
+    padding-left: 100px;
+}
+#btn2{
+    border: 2px solid white;
+    border-radius: 5px;
+    margin-left: 100px ;
+} 
+#pic3{
+    background-image: url(Imgs/pic\ 3.jpg) ;
+    background-size: cover;
+    height: 740px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.sec3 h5{
+    padding-top: 30%;
+    padding-left: 100px;
+    color: white;
+
+}
+.sec3 h1{
+    color: white;
+    padding-left: 100px;
+}
+#btn3{
+    border: 2px solid white;
+    border-radius: 5px;
+    margin-left: 100px ;
+}
+#foot1 a{
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: small;
+
+}
+.btn{
+    width: 189px!important;
+height: 50px!important;
+color: white!important;
+border-radius: 0px!important;
+  }
+  .btn:hover{
+  background: white;
+  color: black!important;
+      opacity: 1;
+visibility: inherit;
+translate: none;
+rotate: none;
+scale: none;
+transform: translate3d(0px, 0px, 0px);
+  }
+
+  a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  a:active {
+    text-decoration: underline;
+  }
